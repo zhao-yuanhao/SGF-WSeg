@@ -1,0 +1,38 @@
+{
+  "hiertoulouse": [
+    "construction_area",
+    "non_construction_area",
+    "mineral_material_area",
+    "water_surface",
+    "broad_leaved_forest",
+    "coniferous_forest",
+    "mixed_forest",
+    "shrubbery",
+    "other_woodlands",
+    "herbaceous_plants"
+  ],
+  "gid15": [
+    "irrigated_land",
+    "urban_residential",
+    "arbor_forest",
+    "industrial_land",
+    "river",
+    "rural_residential",
+    "traffic_land",
+    "dry_cropland",
+    "paddy_field",
+    "lake",
+    "natural_meadow",
+    "pond",
+    "garden_land",
+    "shrub_land",
+    "artificial_meadow"
+  ],
+  "vaihingen": [
+    "impervious_surfaces",
+    "buildings",
+    "low_vegetation",
+    "trees",
+    "cars"
+  ]
+}
